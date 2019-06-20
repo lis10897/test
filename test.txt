@@ -1,3 +1,2 @@
 test1
-m
-add test2  text
+add test2  textmadd
